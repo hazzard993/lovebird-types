@@ -21,7 +21,7 @@ Add these declarations to types.
 }
 ```
 
-Now define how to import these types (this may change depending on your project setup),
+Now define how to import these types (this may change depending on your project setup).
 
 ```ts
 // allows `import lovebird = require("lovebird")` to be written
