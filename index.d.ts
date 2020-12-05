@@ -1,3 +1,5 @@
+/** @noSelfInFile */
+
 /**
  * Call this at the top of your `love.update()` function.
  *
